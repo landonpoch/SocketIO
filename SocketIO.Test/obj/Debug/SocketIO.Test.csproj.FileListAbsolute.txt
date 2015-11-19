@@ -1,0 +1,9 @@
+C:\src\SocketIO\SocketIO.Test\bin\Debug\SocketIO.Test.dll
+C:\src\SocketIO\SocketIO.Test\bin\Debug\SocketIO.Test.pdb
+C:\src\SocketIO\SocketIO.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\src\SocketIO\SocketIO.Test\bin\Debug\SocketIO.dll
+C:\src\SocketIO\SocketIO.Test\bin\Debug\SocketIO.pdb
+C:\src\SocketIO\SocketIO.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\src\SocketIO\SocketIO.Test\obj\Debug\SocketIO.Test.csprojResolveAssemblyReference.cache
+C:\src\SocketIO\SocketIO.Test\obj\Debug\SocketIO.Test.dll
+C:\src\SocketIO\SocketIO.Test\obj\Debug\SocketIO.Test.pdb

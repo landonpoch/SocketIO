@@ -1,0 +1,24 @@
+﻿Build started 11/18/2015 11:56:26 PM.
+     1>Project "C:\src\SocketIO\SocketIO\SocketIO.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\src\SocketIO\Release\SocketIO.dll" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\src\SocketIO\Release\SocketIO.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH /DLL Release\app.res
+         Release\AssemblyInfo.obj
+         Release\SocketIO.obj
+         Release\Stdafx.obj
+         "Release\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         "C:\src\SocketIO\socket.io-client-cpp\build\Release\sioclient.lib"
+     1>sioclient.lib(greg_month.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in AssemblyInfo.obj
+     1>sioclient.lib(greg_month.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in AssemblyInfo.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>sioclient.lib(error_code.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in AssemblyInfo.obj
+     1>sioclient.lib(error_code.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in AssemblyInfo.obj
+     1>sioclient.lib(greg_month.obj) : error LNK2019: unresolved external symbol __imp___invalid_parameter referenced in function "char * __cdecl std::_Allocate<char>(unsigned int,char *,bool)" (??$_Allocate@D@std@@YAPADIPAD_N@Z)
+     1>sioclient.lib(error_code.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+     1>sioclient.lib(greg_month.obj) : error LNK2019: unresolved external symbol __imp___CrtDbgReportW referenced in function "char * __cdecl std::_Allocate<char>(unsigned int,char *,bool)" (??$_Allocate@D@std@@YAPADIPAD_N@Z)
+     1>sioclient.lib(error_code.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReportW
+     1>C:\src\SocketIO\Release\SocketIO.dll : fatal error LNK1120: 2 unresolved externals
+     1>Done Building Project "C:\src\SocketIO\SocketIO\SocketIO.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.35
