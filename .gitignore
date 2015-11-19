@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+# Auto-generated files
+*.pdb
+
+# Big ass Visual Studio database files
+*.ipch
+*.sdf
