@@ -31,5 +31,5 @@
 *.pdb
 
 # Big ass Visual Studio database files
-*.ipch
+*.pch
 *.sdf
