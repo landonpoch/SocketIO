@@ -33,3 +33,5 @@
 # Big ass Visual Studio database files
 *.pch
 *.sdf
+*.ipch
+*.opensdf

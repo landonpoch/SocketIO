@@ -1,0 +1,8 @@
+C:\src\SocketIO\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\src\SocketIO\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\src\SocketIO\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\src\SocketIO\ConsoleTest\bin\Debug\SocketIO.dll
+C:\src\SocketIO\ConsoleTest\bin\Debug\SocketIO.pdb
+C:\src\SocketIO\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\src\SocketIO\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\src\SocketIO\ConsoleTest\obj\Debug\ConsoleTest.pdb

@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sioclient", "socket.io-clie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketIO.Test", "SocketIO.Test\SocketIO.Test.csproj", "{FB156874-3A82-4432-8BE4-CC6F279B39BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,30 @@ Global
 		{FB156874-3A82-4432-8BE4-CC6F279B39BE}.RelWithDebInfo|x64.Build.0 = Release|Any CPU
 		{FB156874-3A82-4432-8BE4-CC6F279B39BE}.RelWithDebInfo|x86.ActiveCfg = Release|Any CPU
 		{FB156874-3A82-4432-8BE4-CC6F279B39BE}.RelWithDebInfo|x86.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Debug|x64.Build.0 = Debug|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Debug|x86.Build.0 = Debug|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.MinSizeRel|Any CPU.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.MinSizeRel|Any CPU.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.MinSizeRel|x64.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.MinSizeRel|x64.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.MinSizeRel|x86.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.MinSizeRel|x86.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Release|x64.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Release|x64.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Release|x86.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.Release|x86.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.RelWithDebInfo|Any CPU.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.RelWithDebInfo|Any CPU.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.RelWithDebInfo|x64.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.RelWithDebInfo|x64.Build.0 = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.RelWithDebInfo|x86.ActiveCfg = Release|Any CPU
+		{F47BF7C7-BAA1-4553-8ED9-378DB00D577F}.RelWithDebInfo|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
